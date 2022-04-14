@@ -97,6 +97,3 @@ def photos_static():
     
     
     return render_template('cards.html')
-
-
-    
